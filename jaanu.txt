@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    Bhakti (Sanskrit: भक्ति) literally means "attachment, participation, fondness for, homage, faith, love, devotion, worship, purity".[1] It was originally used in Hinduism, referring to devotion and love for a personal god or a representational god by a devotee.
+     In ancient texts such as the Shvetashvatara Upanishad, the term simply means participation, devotion and love for any endeavor, while in the Bhagavad Gita, it connotes one of the possible paths of spirituality and towards moksha, as in bhakti marga.
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="main.css" />
+    <title>Martial Arts Simulator</title>
+  </head>
+  <body class="bk-image">
+    <canvas id="canvas" height="500" , width="500"></canvas>
+    <button id="kick">Kick</button>
+    <button id="punch">Punch</button>
+    <button id="forward">Forward</button>
+    <button id="backward">Backward</button>
+    <button id="block">Block</button>
+    <script src="main.js"></script>
+  </body>
+</html>
